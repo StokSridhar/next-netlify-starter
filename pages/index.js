@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="SSR Palace" />
         <p className="description">
-         Coming Soon..</code>
+         Coming Soon.. 
         </p>
       </main>
  
